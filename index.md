@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
 [Data Clnic project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
