@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Data Clinic project](http://example.com/)
-- [Classifying Human-Made and AI-Generated Images](http://example.com/)
+- [Classifying Human-Made and AI-Generated Images]([http://example.com/](https://docs.google.com/presentation/d/1YlbBaBHjCiHAstDAV29z8S6ZU4urd33_/edit?usp=sharing&ouid=114815941480699430586&rtpof=true&sd=true))
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
