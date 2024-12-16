@@ -9,7 +9,7 @@
 
 ---
 [Classifying Human-Made and AI-Generated Images](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Job portfolio-Project 1 .jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
