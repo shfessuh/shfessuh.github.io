@@ -16,7 +16,7 @@
 <img src="images/clustering.jpg?raw=true"/>
 
 ---
-[From Data to Decisions: How Engagement and Models Drive News Recommendations](http://example.com/)
+[From Data to Decisions: How Engagement and Models Drive News Recommendations](/pdf/News_Recommendations.pdf)
 <img src="images/clustering.jpg?raw=true"/>
 
 
