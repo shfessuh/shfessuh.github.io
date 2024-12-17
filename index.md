@@ -4,8 +4,8 @@
 
 ### Data Science Projects
 
-[Data Clnic project](/sample_page)
-<img src="Job portfolio.jpg?raw=true"/>
+[Data Clnic project](/pdf/sample_presentation.pdf)
+<img src="images/Job portfolio.jpg?raw=true"/>
 
 ---
 [Classifying Human-Made and AI-Generated Images](/pdf/sample_presentation.pdf)
