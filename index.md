@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Data Clnic project](/pdf/sample_presentation.pdf)
+[Data Clnic project](/pdf/DSI-project.pdf)
 <img src="images/Job portfolio.jpg?raw=true"/>
 
 ---
