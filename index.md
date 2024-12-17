@@ -5,11 +5,11 @@
 ### Data Science Projects
 
 [Data Clnic project](/sample_page)
-<img src="Job portfolio-Project 1 3.jpg?raw=true"/>
+<img src="Job portfolio-Project 1.jpg?raw=true"/>
 
 ---
 [Classifying Human-Made and AI-Generated Images](/pdf/sample_presentation.pdf)
-<img src="Job portfolio-Project 1 3.jpg?raw=true"/>
+<img src="Job portfolio-Project 1.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
