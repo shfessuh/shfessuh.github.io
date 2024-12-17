@@ -16,6 +16,11 @@
 <img src="images/clustering.jpg?raw=true"/>
 
 ---
+[From Data to Decisions: How Engagement and Models Drive News Recommendations](http://example.com/)
+<img src="images/clustering.jpg?raw=true"/>
+
+
+---
 
 ### Category Name 2
 
