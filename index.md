@@ -8,7 +8,7 @@
 <img src="images/Job portfolio.jpg?raw=true"/>
 
 ---
-[Classifying Human-Made and AI-Generated Images](/pdf/sample_presentation.pdf)
+[Classifying Human-Made and AI-Generated Images](file:///Users/sana/Downloads/Spatial%20cluster_final(CLEAN).html)
 <img src="images/AI.jpg?raw=true"/>
 
 ---
