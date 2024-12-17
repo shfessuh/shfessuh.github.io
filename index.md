@@ -12,8 +12,8 @@
 <img src="images/AI.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mapping Risk: Crime Trends Across Chicago's Public Transit Network](http://example.com/)
+<img src="images/clustering.jpg?raw=true"/>
 
 ---
 
