@@ -17,7 +17,7 @@
 
 ---
 [From Data to Decisions: How Engagement and Models Drive News Recommendations](/pdf/News_Recommendations.pdf)
-<img src="images/clustering.jpg?raw=true"/>
+<img src="images/Ethics_1.png?raw=true"/>
 
 
 ---
