@@ -2,9 +2,9 @@
 
 ---
 
-### Data Science Projects
+### Data Science Code Repositories
 
-[Literary Mirror: Power-Danger Framework in YA Literature](/pdf/DSI-project.pdf)
+[Literary Mirror: Power-Danger Framework in YA Literature](https://github.com/shfessuh/2024-autumn-uni-public.git)
 <img src="images/Job portfolio.jpg?raw=true"/>
 
 ---
@@ -16,16 +16,16 @@
 <img src="images/clustering.jpg?raw=true"/>
 
 ---
-[From Data to Decisions: How Engagement and Models Drive News Recommendations](/pdf/News_Recommendations.pdf)
+[From Data to Decisions: How Engagement and Models Drive News Recommendations](https://github.com/shfessuh/ethics-engineers-public.git)
 <img src="images/Ethics_1.png?raw=true"/>
 
 
 ---
 
-### Category Name 2
+### Presentation Materials
 
-- [Data Clinic project](http://example.com/)
-- [Classifying Human-Made and AI-Generated Images](http://example.com/)
+- [Literary Mirror: Power-Danger Framework in YA Literature](/pdf/DSI-project.pdf)
+- [From Data to Decisions: How Engagement and Models Drive News Recommendations](/pdf/News_Recommendations.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
