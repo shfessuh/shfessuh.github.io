@@ -12,7 +12,7 @@
 <img src="images/AI.jpg?raw=true"/>
 
 ---
-[Mapping Risk: Crime Trends Across Chicago's Public Transit Network](http://example.com/)
+[Mapping Risk: Crime Trends Across Chicago's Public Transit Network](https://github.com/shfessuh/shfessuh.github.io/blob/main/Notebooks/Spatial%20cluster_final(CLEAN).ipynb)
 <img src="images/clustering.jpg?raw=true"/>
 
 ---
