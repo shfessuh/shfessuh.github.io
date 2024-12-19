@@ -8,11 +8,11 @@
 <img src="images/Job portfolio.jpg?raw=true"/>
 
 ---
-[Classifying Human-Made and AI-Generated Images](https://github.com/shfessuh/shfessuh.github.io/blob/main/Notebooks/Spatial%20cluster_final(CLEAN).ipynb)
+[Classifying Human-Made and AI-Generated Images](https://github.com/shfessuh/shfessuh.github.io/blob/main/Notebook/AI_real_project)
 <img src="images/AI.jpg?raw=true"/>
 
 ---
-[Mapping Risk: Crime Trends Across Chicago's Public Transit Network](https://github.com/shfessuh/shfessuh.github.io/blob/main/Notebooks/Spatial%20cluster_final(CLEAN).ipynb)
+[Mapping Risk: Crime Trends Across Chicago's Public Transit Network](https://github.com/shfessuh/shfessuh.github.io/blob/main/Notebook/Spatial_Project)
 <img src="images/clustering.jpg?raw=true"/>
 
 ---
