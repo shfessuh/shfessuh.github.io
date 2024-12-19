@@ -26,10 +26,6 @@
 
 - [Literary Mirror: Power-Danger Framework in YA Literature](/pdf/DSI-project.pdf)
 - [From Data to Decisions: How Engagement and Models Drive News Recommendations](/pdf/News_Recommendations.pdf)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
 
