@@ -2,7 +2,6 @@
 The ability of AI to create and generate realistic images has significant implications for authenticity and reliability in the digital era. With misinformation competing for attention on social platforms, tools to decode images and determine their source are invaluable for maintaining truth in information dissemination. This project explores the use of machine learning to classify images as either "Real" (human-made) or "AI-Generated." Using a Random Forest model and a Convolutional Neural Network (CNN), we compared their performance in detecting AI-generated content. Through this project, I was able to focus on model development, data preprocessing, hyperparameter tuning, and evaluation metrics.
 
 ## Dataset
-
 The dataset, originally published on Kaggle by Cash Bowman, contains AI-generated and human-made artworks in categories such as people, animals, portraits, scenery, and psychedelics.
 * The dataset was reduced to 970 valid images (originally 975).
 * Images were resized to 224x224 pixels and converted to RGB without normalization to preserve original color schemes.
