@@ -1,6 +1,6 @@
-title:      "Sana Fessuh"
-logo: "/images/IMG_2249,remini-enhanced 2-photoaidcom-cropped.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: "Sana Fessuh"
+logo: "/images/IMG_2249,remini-enhanced 2-photoaidcom-cropped.jpg?raw=true" 
+description: > 
   <br><br>
   Aspiring data scientist with a creative edge.Blending analytical skills with artistic vision to derive unique insights from data with a focus in machine learning, data analytics, and data visualization. 
   <br><br>
@@ -9,4 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 
