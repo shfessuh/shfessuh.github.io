@@ -1,6 +1,6 @@
 # Sana Fessuh's Technical Portfolio
 
-last updated; 12/25/24
+last updated: 12/25/24
 
 https://shfessuh.github.io
 
