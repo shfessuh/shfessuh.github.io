@@ -33,7 +33,9 @@ Adjusted the number of full layers, concluding that 5 layers provided the best r
 
 ## Limitations and Future Work
 **Dataset Size:** The dataset was limited to 970 images, which may restrict the models' generalizability to broader contexts.
+
 **Overfitting:** The Random Forest model struggled with overfitting, reducing its performance on unseen data.
+
 **Future Improvements:** Implementing advanced CNN architectures like ResNet or expanding the dataset with more diverse examples could significantly improve accuracy and applicability.
 
 ## Libraries 
