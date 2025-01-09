@@ -4,10 +4,6 @@
 
 ### Data Science Code Repositories
 
-[Literary Mirror: Power-Danger Framework in YA Literature](https://github.com/shfessuh/2024-autumn-uni-public.git)
-<img src="images/Job portfolio.jpg?raw=true"/>
-
----
 [Classifying Human-Made and AI-Generated Images](https://github.com/shfessuh/shfessuh.github.io/blob/main/Notebook/AI_real_project)
 <img src="images/AI.jpg?raw=true"/>
 
@@ -24,7 +20,7 @@
 
 ### Presentation Materials
 
-- [Literary Mirror: Power-Danger Framework in YA Literature](/pdf/DSI-project.pdf)
+- [Literary Mirror: Power-Danger Framework in YA Literature](/DSI_project)
 - [From Data to Decisions: How Engagement and Models Drive News Recommendations](/pdf/News_Recommendations.pdf)
 
   
