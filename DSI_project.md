@@ -34,10 +34,8 @@
 
 
 ## 6. Framework and Methology links
-https://pdodds.w3.uvm.edu/research/papers//years/2021/dodds2021b.pdf
-
-https://www.nature.com/articles/s41599-023-01680-4
-
+- [Power-Danger Framework](https://pdodds.w3.uvm.edu/research/papers//years/2021/dodds2021b.pdf)
+- [Fudolig's paper](https://www.nature.com/articles/s41599-023-01680-4)
 
 
 **For privacy reasons, I am unable to share code or provide an in-depth description here.**
