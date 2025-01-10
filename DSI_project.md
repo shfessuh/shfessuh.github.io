@@ -20,9 +20,9 @@
 
 
 ## 4. Data Visualizations
-- generated **time series** to show power-danger score fluctuation over time.
+- Generated **time series** to show power-danger score fluctuation over time.
     - denoised using empirical mode decomposition & internal mode functions.
-- Generated ousiograms to summarize the distribution of words in a novel.
+- Generated **ousiograms** to summarize the distribution of words in a novel.
 
 <p align="center">
 <img src="images/Job portfolio.jpg" style="width: 80%;"/>
