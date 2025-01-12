@@ -1,5 +1,5 @@
 # NLP Analysis of Power and Danger in YA Literature
-**Project Description**: This research explores the use of power and danger narratives in African American Young Adult (YA) literature, comparing novels by Black authors with those by white authors to uncover biases in narrative styles. Using the power-danger framework by Danforth and Dodds, we analyze word usage patterns to reveal shifts in power dynamics and societal attitudes. By leveraging Natural Language Processing (NLP) tools, this study highlights the role of language in reflecting and shaping perceptions, contributing to both literary analysis and advancements in NLP. 
+**Description**: This research explores the use of power and danger narratives in African American Young Adult (YA) literature, comparing novels by Black authors with those by white authors to uncover biases in narrative styles. Using the power-danger framework by Danforth and Dodds, we analyze word usage patterns to reveal shifts in power dynamics and societal attitudes. By leveraging Natural Language Processing (NLP) tools, this study highlights the role of language in reflecting and shaping perceptions, contributing to both literary analysis and advancements in NLP. 
 
 ### 1. Initial Data
 - **Dataset**
