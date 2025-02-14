@@ -14,9 +14,9 @@
 
 
 ## 3. Pipeline Development 
-- Clean and tokenize folders of raw txt files 
+- Cleand and tokenized folders of raw txt files.
 - Tokenized and scored novels using Power-Danger Framework.
-- created summarty statitcs to look for correlation between African-American and White novels.
+- Created summary statistics to look for correlation between African-American and White novels.
 
 
 ## 4. Data Visualizations
