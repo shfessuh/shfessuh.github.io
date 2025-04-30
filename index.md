@@ -22,6 +22,7 @@
 
 - [Literary Mirror: Power-Danger Framework in YA Literature](/DSI_project)
 - [From Data to Decisions: How Engagement and Models Drive News Recommendations](/pdf/News_Recommendations.pdf)
+- [Machine Learning-Based Landslide Risk Assessment in Gitwe-Kadhua(Rwanda)](/pdf/URwanda.pdf)
 
   
 ---
